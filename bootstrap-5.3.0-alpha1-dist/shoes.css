@@ -1,0 +1,122 @@
+.ul{
+list-style: none;
+display: flex;
+}
+.img1{
+    width: 30%;
+    height: 100%;
+    margin-top: -5%;
+}
+.li, .search{
+    margin-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.search{
+    border-radius: 20px;
+    background-color: beige;
+    height: 30px;
+    border: 2px solid darksalmon;
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.aref{
+    text-decoration: none;
+    color: darksalmon;
+}
+.offer{
+    color: dimgrey;
+    text-align: center;
+}
+.sec{
+    background-color: darksalmon;
+    padding-bottom: 10px;
+    border: 2px solid purple;
+    border-radius: 20px;
+}
+.mar{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+.sec2{
+    background-color: rgb(255, 246, 196);
+    border-radius: 20px;
+    border: 2px solid purple;
+}
+.img2{
+    margin-left: 45%;
+    padding-top: 10px;
+    border-radius: 20px;
+}
+.maindiv{
+    display: flex;
+    padding: 10px;
+    margin-left: 190px;
+    /* background-color: darksalmon; */
+}
+.div2:hover~div.div1{
+   box-shadow: 10px 10px 50px purple;
+    margin-left: 50px;
+    height: 70%;
+    background-color: purple;
+    border-radius: 30px;
+    
+}
+
+.img3{
+    margin-left: 20px;
+    height: 375px;
+    border: 5px solid purple;
+    border-radius: 30px;
+}
+.img4{
+    width: 300px;
+    border: 5px solid purple;
+    border-radius: 30px;
+}
+.vid{
+    border: 5px solid purple;
+    height: 50%;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+.sec1{
+    background-color: darksalmon;
+    border: 2px solid purple;
+    border-radius: 20px;
+}
+.sec2{
+    background-color: darksalmon;
+    display: flex;
+    margin-top: 10px;
+}
+.ul1{
+    list-style: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    
+    
+}
+#li1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: small;
+    color: bisque;
+    
+}
+.icon{
+    margin-left: 700px;
+    margin-top: 20px;
+    color: black;
+}
+.ic{
+    color: blueviolet;
+}
+.ref{
+    text-decoration: none;
+    color: cornsilk;
+}
